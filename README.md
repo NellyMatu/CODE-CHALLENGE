@@ -16,7 +16,8 @@ Net Salary Calculator: It calculate an individual’s Net Salary by getting the 
 
 INSTALLATION:
 
-You use git clone to be able to download from github.  
+Clone the repository from Github using the command git clone git@github.com:NellyMatu/CODE-CHALLENGE.git 
+Open the cloned repository in your code editor from terminal.
 
 INSTALLATIONS REQUIREMENTS :
 
